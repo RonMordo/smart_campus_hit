@@ -3,7 +3,7 @@ import re
 
 
 #CONFIG
-FILE_PATH = 'Campus_Data.csv'
+FILE_PATH = '<FILL_PATH>.csv'
 COLS = ['additional_info', 'device_data']
 ROOM_NUMBER_COL = 'search_text'
 
