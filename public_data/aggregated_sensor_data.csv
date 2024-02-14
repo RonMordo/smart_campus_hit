@@ -1,0 +1,6 @@
+,type,ambient_temperature,ambient_temperature,ambient_temperature,relative_humidity,relative_humidity,relative_humidity
+,,mean,min,max,mean,min,max
+0,BreezeSmartRoom,27.398142456234133,23.9,31.6,62.36295603367633,46.0,72.0
+1,SmartRoom,27.398109173515067,23.9,31.6,62.363032003741566,46.0,72.0
+2,VIK,27.398129142612788,23.9,31.6,62.36298642292068,46.0,72.0
+3,VividSmartRoom,27.398109173515067,23.9,31.6,62.363032003741566,46.0,72.0
